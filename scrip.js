@@ -15,4 +15,6 @@ if (hora >=6 && hora >12){
     saludo = "buenas noches!"
 }
 
+document.write (saludo);
+
 
