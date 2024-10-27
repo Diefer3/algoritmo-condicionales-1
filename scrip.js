@@ -14,7 +14,7 @@ if (hora >=6 && hora >12){
 } else {
     saludo = "buenas noches!"
 }
-
+// creo la salida 
 document.write (saludo);
 
 
